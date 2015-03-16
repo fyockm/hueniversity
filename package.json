@@ -1,0 +1,23 @@
+{
+  "name": "hueniversity",
+  "description": "Hueniversity",
+  "version": "0.0.1",
+  "author": "Hapi Dev Community",
+  "bugs": {
+    "url": "https://github.com/hueniversity/hueniversity/issues"
+  },
+  "dependencies": {
+    "hapi": "^8.0.0"
+  },
+  "homepage": "https://github.com/hueniversity/hueniversity",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hueniversity/hueniversity.git"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
